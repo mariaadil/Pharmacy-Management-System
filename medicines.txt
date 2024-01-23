@@ -1,0 +1,29 @@
+Name,Amount,Price,Manufacture,Expiry
+Amoxicillin,300,5,12-10-`20,10-10-`24
+Amlodipine,290,10,12-10-`21,10-12-`30
+Atenolol,50,20,1-10-`22,2-5-`25
+Benzydamine,400,25,1-1-`20,2-4-`23
+Clobazam,200,10,1-1-`18,2-2-`23
+Calcium,90,10,1-2-`19,9-2-`25
+Calcipotriol,99,6,1-2-`18,6-4-`26
+Cefalexin,89,60,1-2-`16,4-5-`29
+Cinnarizine,880,10,2-2-`19,5-5-`23
+Digoxin,900,10,3-5-`20,5-9-`23
+Docusate,77,90,10-6-`21,		7-2-`23
+Enalapril
+,760,	12,10-9-`19,		8-3-`26
+Folic acid,	100,	1,13-1-23,		9-9-`27
+Fluticasone skin creams,
+240,	9, 12-9-`19,		9-9-`21
+Fluticasone nasal spray and drops,
+250,	12,	12-12-`20,	8-3-`26
+Glimepiride,
+600,	10, 14-2-`19,		8-3-`26
+Hydroxocobalamin,
+10,	5,	12-8-`20,	9-9-`27
+Isotretinoin capsules (Roaccutane),
+100	, 5,  5-6-`20	,	8-3-`26
+Paracetamol for adults,
+212,	5,	10-13-`20,	8-3-`26
+Sotalol,
+201,	5, 15-4-`20,		8-3-`26

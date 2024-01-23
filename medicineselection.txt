@@ -1,0 +1,26 @@
+Amoxicillin,22
+Amlodipine,10
+Atenolol,50
+Benzydamine,40
+Clobazam,20
+Calcium,90
+Calcipotriol,99
+Cefalexin,89
+Cinnarizine,88
+Digoxin,90
+Docusate,77
+Enalapril
+,76
+Folic acid,	10
+Fluticasone skin creams,
+240
+Fluticasone nasal spray and drops,
+250
+Glimepiride,
+600
+Hydroxocobalamin,
+10
+Isotretinoin capsules (Roaccutane),
+100
+Paracetamol for adults,
+212
